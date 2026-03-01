@@ -1,0 +1,11 @@
+{
+  "runtime_device": "GPU",
+  "epochs": 200,
+  "learning_rate": 0.1,
+  "sample_idx": 0,
+  "optimal_allocation_kw": 41.02256545482682,
+  "demand_kw": 40.48684755488264,
+  "total_supply_kw": 95.71931939459591,
+  "deficit_surplus_kw": 54.696753939769096,
+  "artifact_npz": "trained_artifacts/quantum_energy_allocator_model.npz"
+}
